@@ -1,0 +1,71 @@
+---
+title: "Grupo_1"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Grupo:
+
+1
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Campos Troyes, Edgar Orlando
+
+Cubas Fernandez, Mikey Didu
+
+Chasquibol Goñas, Eros Daniel
+
+Navarro Villegas, Katherine Vanessa
+
+Silva Castro, Jose Luis
+
+## Variedad:
+
+Criolla amarilla,
+
+## Datos de colecta:
+
+Coordenadas:
+
+Localidad: Cuchulia
+
+Distrito: Jazan
+
+Provincia: Bongará
+
+Departamento: Amazonas
+
+Nombre de la finca: Ishanga
+
+Nombre del productor: Wilmer Collantes Vasquez
+
+Edad del cultivo; 7 meses (cosecha selectiva)
+
+## Descripción de la variedad:
+
+La caña amarilla (conocida en muchas zonas como caña amarilla criolla) es una variedad tradicional de *Saccharum officnarum* L., ampliamente cultivada en regiones tropicales por su rusticidad y buena adaptación a condiciones variables de manejo. Se caracteriza principalmente por el color amarillo dorado de su tallo maduro, con entrenudos largos, superficie lisa y ligera capa cerosa que ayuda a reducir la pérdida de humedad.
+
+Esta variedad presenta un crecimiento vigoroso y buena capacidad de rebrote (soca), lo que permite varios cortes sin necesidad de renovación frecuente del cultivo. Su ciclo vegetativo es intermedio, alcanzando madurez entre 10 y 12 meses dependiendo del clima y la fertilidad del suelo. Destaca por su tolerancia moderada a sequías cortas y su capacidad de adaptarse a suelos de fertilidad media, características que explican su permanencia en sistemas de producción tradicional.
+
+En Amazonas se cultiva como alimento para el ganado, producción de jugo de caña y consumo directo.
